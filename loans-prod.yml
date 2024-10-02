@@ -3,7 +3,7 @@ build:
 
 # Creating a common prefix for my Loans MS
 loans:
-  message: "Welcome to Bank_of_Guyana Loans related to PROD APIs"
+  message: "Welcome to Bank_of_Guyana Loans related to production APIs"
   contactDetails:
     name: "Hana Tanaka - Developer"
     mail: "tanakahana@bnkguy.com"
