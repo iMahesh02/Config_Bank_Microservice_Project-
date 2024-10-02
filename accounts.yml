@@ -3,7 +3,7 @@ build:
 
 # Creating a common prefix for my Accounts MS
 accounts:
-  message: "Welcome to Bank_of_Guyana Accounts related Local APIs"
+  message: "Welcome to Bank_of_Guyana Accounts related Local webhook-test APIs"
   contactDetails:
     name: "John Doe - Developer"
     mail: "johndoe@bnkguy.com"
